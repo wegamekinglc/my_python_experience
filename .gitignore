@@ -1,0 +1,3 @@
+notebook/.pytest_cache/*
+notebook/__pycache__/*
+notebook/.ipynb_checkpoints/*
